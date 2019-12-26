@@ -1,3 +1,3 @@
 # Automata-Theory
 
-Polish notation and CFG(Context-Free-Grammar)
+This repository contains Polish Notation,CFG(Context-Free-Grammar),Mealey and Moore machines
